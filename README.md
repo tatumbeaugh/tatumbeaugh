@@ -11,10 +11,10 @@ I'm a passionate student researcher with experience in data science. I love tack
 
 ## My Skills 🧠
 
-![Python]([https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue))
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++]([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))
-![R]([https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white))
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
