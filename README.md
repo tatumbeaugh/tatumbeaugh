@@ -6,8 +6,8 @@
 
 I'm a passionate student researcher with experience in data science. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Bash, machine learning, Streamlit
-- 📫 How to reach me: tbeaugh@gmail.com
+- 🌱 Currently learning: Bash, XGBoost
+- 📫 How to reach me: tatumbeaugh@gmail.com
 
 ## My Skills 🧠
 
@@ -23,6 +23,9 @@ I'm a passionate student researcher with experience in data science. I love tack
 ## Get in Touch 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/tatum-beaugh-a5772a279/)
+
+## Personal Website
+- **[tatumbeaugh.com]**(https:://www.tatumbeaugh.com)
 
 
 
