@@ -6,7 +6,7 @@
 
 I'm a passionate student researcher with experience in data science. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Bash, XGBoost
+- 🌱 Currently learning: Web Development
 - 📫 How to reach me: tatumbeaugh@gmail.com
 
 ## My Skills 🧠
