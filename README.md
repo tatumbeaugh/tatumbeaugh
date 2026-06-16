@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate student researcher with experience in data science. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Data Analyst, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 
 ## My Skills 🧠
