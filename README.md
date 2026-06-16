@@ -6,8 +6,6 @@
 
 I'm a passionate student researcher with experience in data science. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Web Development
-- 📫 How to reach me: tatumbeaugh@gmail.com
 
 ## My Skills 🧠
 
@@ -19,6 +17,7 @@ I'm a passionate student researcher with experience in data science. I love tack
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ## Get in Touch 📬
 
